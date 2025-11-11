@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Cook_Corner | Login</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+  <style>
+    :root { --brand-blue:#3b82f6; --brand-amber:#f59e0b; }
+    body {
+      background:
+        radial-gradient(1200px 800px at 10% -10%, rgba(59,130,246,.18), transparent 60%),
+        radial-gradient(1200px 800px at 110% 30%, rgba(245,158,11,.18), transparent 60%),
+        radial-gradient(800px 600px at 50% 120%, rgba(236,72,153,.18), transparent 60%),
+        #f9fafb;
+      background-attachment: fixed;
+    }
+    .form-container {
+      background: rgba(255, 255, 255, 0.6);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+    }
+    .pulse {
+      animation: pulse-bg 2s infinite;
+    }
+    @keyframes pulse-bg {
+      0%, 100% { background-color: #16a34a; }
+      50% { background-color: #22c55e; }
+    }
+  </style>
+</head>
+<body class="flex items-center justify-center min-h-screen font-sans">
+
+  <div class="relative w-full max-w-4xl mx-auto my-8 lg:my-0">
+    <div class="grid lg:grid-cols-2 gap-4 shadow-2xl rounded-2xl overflow-hidden">
+      
+      <!-- Form Side -->
+      <div class="form-container p-8 md:p-12 order-2 lg:order-1">
+        <div class="text-center mb-8">
+          <h1 class="text-3xl font-bold text-gray-800">Welcome Back!</h1>
+          <p class="text-gray-600 mt-2">Sign in to your Cook Corner account.</p>
+        </div>
+
+        <form id="loginForm" class="space-y-6">
+          <div class="relative">
+            <span class="absolute inset-y-0 left-0 flex items-center pl-3">
+              <i data-feather="mail" class="w-5 h-5 text-gray-400"></i>
+            </span>
+            <input type="email" id="email" name="email" placeholder="Email Address" class="w-full pl-10 pr-4 py-3 bg-white bg-opacity-80 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition" required>
+          </div>
+
+          <div class="relative">
+            <span class="absolute inset-y-0 left-0 flex items-center pl-3">
+              <i data-feather="lock" class="w-5 h-5 text-gray-400"></i>
+            </span>
+            <input type="password" id="password" name="password" placeholder="Password" class="w-full pl-10 pr-4 py-3 bg-white bg-opacity-80 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition" required>
+          </div>
+
+          <div class="flex items-center justify-between">
+            <label class="flex items-center text-sm text-gray-600">
+              <input type="checkbox" id="remember" name="remember" class="h-4 w-4 text-blue-600 border-gray-300 rounded focus:ring-blue-500">
+              <span class="ml-2">Remember me</span>
+            </label>
+            <a href="#" class="text-sm font-medium text-blue-600 hover:text-blue-500">Forgot Password?</a>
+          </div>
+
+          <!-- Error/Success Message -->
+          <div id="message" class="hidden p-3 rounded-lg text-sm text-center"></div>
+
+          <div>
+            <button id="loginBtn" type="submit" class="w-full flex justify-center items-center gap-2 bg-blue-600 text-white font-bold py-3 px-4 rounded-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 transition-all duration-300 disabled:opacity-50">
+              <i data-feather="log-in" class="w-5 h-5"></i>
+              <span>Sign In</span>
+            </button>
+          </div>
+        </form>
+
+        <p class="text-center text-sm text-gray-600 mt-8">
+          Don't have an account? <a href="signup.html" class="font-medium text-blue-600 hover:text-blue-500">Sign Up</a>
+        </p>
+      </div>
+
+      <!-- Image Side -->
+      <div class="hidden lg:block order-1 lg:order-2">
+        <img src="https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Delicious pancakes" class="w-full h-full object-cover">
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    feather.replace();
+
+    const loginForm = document.getElementById('loginForm');
+    const loginBtn = document.getElementById('loginBtn');
+    const email = document.getElementById('email');
+    const pw = document.getElementById('password');
+    const remember = document.getElementById('remember');
+    const msg = document.getElementById('message');
+
+    function validEmail(e) {
+      const filter = /^\s*[\w\-\+_]+(\.[\w\-\+_]+)*\@[\w\-\+_]+\.[\w\-\+_]+(\.[\w\-\+_]+)*\s*$/;
+      return String(e).search(filter) != -1;
+    }
+    
+    function showMsg(message, type = 'error') {
+      msg.textContent = message;
+      msg.className = 'p-3 rounded-lg text-sm text-center'; // Reset classes
+      if (type === 'error') {
+        msg.classList.add('bg-red-100', 'text-red-700');
+      } else {
+        msg.classList.add('bg-green-100', 'text-green-700');
+      }
+      msg.classList.remove('hidden');
+    }
+
+    async function doLogin(payload) {
+        const response = await fetch('login.php', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/x-www-form-urlencoded'},
+            body: new URLSearchParams(payload)
+        });
+        const result = await response.json();
+        if (!response.ok || !result.ok) {
+            throw new Error(result.error || 'An unknown error occurred.');
+        }
+        return result;
+    }
+
+    loginForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      msg.classList.add('hidden');
+
+      const eVal = email.value.trim();
+      const pVal = pw.value;
+
+      if (!eVal || !pVal) { showMsg('Please enter both email and password.', 'error'); return; }
+      if (!validEmail(eVal)) { showMsg('Enter a valid email address.', 'error'); return; }
+
+      loginBtn.disabled = true;
+      const originalHTML = loginBtn.innerHTML;
+      loginBtn.innerHTML = '<i data-feather="loader" class="w-5 h-5 animate-spin"></i> <span>Signing in…</span>';
+      feather.replace();
+
+      try {
+        const payload = { email: eVal, password: pVal };
+        const data = await doLogin(payload);
+
+        showMsg('Login successful! Redirecting…', 'success');
+        loginBtn.innerHTML = '<i data-feather="check" class="w-5 h-5"></i> <span>Success</span>';
+        loginBtn.classList.add('pulse');
+        feather.replace();
+
+        setTimeout(() => {
+          window.location.href = data.redirect || 'index.php'; // Use index.php
+        }, 800);
+
+      } catch (err) {
+        showMsg(err.message || 'Login failed. Please try again.', 'error');
+        loginBtn.disabled = false;
+        loginBtn.innerHTML = originalHTML;
+        feather.replace();
+      }
+    });
+  </script>
+</body>
+</html>
+

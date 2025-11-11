@@ -1,0 +1,780 @@
+[
+  {
+    "title": "Classic Tomato Bruschetta",
+    "ingredients": [
+      "4 ripe tomatoes, diced",
+      "1 clove garlic, minced",
+      "1/4 cup fresh basil, chopped",
+      "1 tbsp olive oil",
+      "1 tsp balsamic vinegar",
+      "Salt and pepper to taste",
+      "1 baguette, sliced"
+    ],
+    "directions": [
+      "In a bowl, combine diced tomatoes, minced garlic, chopped basil, olive oil, and balsamic vinegar.",
+      "Season with salt and pepper to taste. Let it sit for about 10 minutes to allow flavors to meld.",
+      "Toast the baguette slices until golden brown.",
+      "Spoon the tomato mixture onto the toasted baguette slices just before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1505253716362-afb74b626351?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "5 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Creamy Avocado Pasta",
+    "ingredients": [
+      "2 ripe avocados",
+      "1/2 cup fresh basil leaves",
+      "2 cloves garlic",
+      "2 tbsp lemon juice",
+      "1/3 cup olive oil",
+      "Salt and black pepper to taste",
+      "8 oz pasta (like spaghetti or fettuccine)",
+      "1/2 cup cherry tomatoes, halved"
+    ],
+    "directions": [
+      "Cook pasta according to package directions. Reserve 1/2 cup of pasta water before draining.",
+      "While pasta is cooking, combine avocados, basil, garlic, and lemon juice in a food processor or blender.",
+      "With the processor running, slowly stream in the olive oil until the sauce is smooth.",
+      "Season with salt and pepper.",
+      "Drain the pasta and return it to the pot. Add the avocado sauce and stir to combine, adding reserved pasta water a tablespoon at a time if the sauce is too thick.",
+      "Serve immediately, topped with cherry tomatoes."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1595704938305-1a8a25c34539?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "servings": "3 servings"
+  },
+  {
+    "title": "Simple Lemon Herb Roasted Chicken",
+    "ingredients": [
+      "1 whole chicken (about 4 lbs)",
+      "1 lemon, halved",
+      "4 sprigs fresh rosemary",
+      "4 sprigs fresh thyme",
+      "4 cloves garlic, smashed",
+      "2 tbsp olive oil",
+      "Salt and freshly ground black pepper"
+    ],
+    "directions": [
+      "Preheat oven to 425°F (220°C).",
+      "Pat the chicken dry with paper towels. Rub the chicken all over with olive oil and season generously with salt and pepper, both inside and out.",
+      "Stuff the chicken cavity with the lemon halves, rosemary, thyme, and smashed garlic.",
+      "Place the chicken in a roasting pan or large oven-safe skillet.",
+      "Roast for 1 hour to 1 hour 15 minutes, or until the juices run clear when a thigh is pierced and a meat thermometer reads 165°F (74°C).",
+      "Let the chicken rest for 10-15 minutes before carving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1604503468818-a3983877b196?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "75 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Garlic Butter Shrimp Scampi",
+    "ingredients": [
+      "8 oz linguine",
+      "4 tbsp butter",
+      "4 cloves garlic, minced",
+      "1 lb large shrimp, peeled and deveined",
+      "1/4 cup dry white wine (or chicken broth)",
+      "1/4 cup chopped fresh parsley",
+      "1 tbsp lemon juice",
+      "Red pepper flakes to taste (optional)"
+    ],
+    "directions": [
+      "Cook linguine according to package directions.",
+      "While the pasta cooks, melt butter in a large skillet over medium-high heat.",
+      "Add garlic and cook until fragrant, about 30 seconds. Add shrimp and cook for 2-3 minutes until they turn pink.",
+      "Pour in the white wine and bring to a simmer. Stir in parsley, lemon juice, and red pepper flakes.",
+      "Drain the linguine and add it to the skillet, tossing to coat the pasta in the sauce.",
+      "Serve immediately."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1625944012285-a928e0421376?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Fudgy Chocolate Brownies",
+    "ingredients": [
+        "1/2 cup unsalted butter, melted",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "1 tsp vanilla extract",
+        "1/2 cup all-purpose flour",
+        "1/3 cup unsweetened cocoa powder",
+        "1/4 tsp baking powder",
+        "1/4 tsp salt",
+        "1/2 cup chocolate chips"
+    ],
+    "directions": [
+        "Preheat your oven to 350°F (175°C). Grease and flour an 8-inch square baking pan.",
+        "In a large bowl, mix together the melted butter and sugar until well combined.",
+        "Beat in the eggs one at a time, then stir in the vanilla extract.",
+        "In a separate bowl, whisk together the flour, cocoa powder, baking powder, and salt.",
+        "Gradually add the dry ingredients to the wet ingredients and mix until just combined. Do not overmix.",
+        "Fold in the chocolate chips.",
+        "Pour the batter into the prepared pan and spread evenly.",
+        "Bake for 20-25 minutes, or until a toothpick inserted into the center comes out with moist crumbs, but not wet batter.",
+        "Let cool completely in the pan before cutting into squares."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes",
+    "servings": "16 servings"
+  },
+  {
+    "title": "Fluffy Buttermilk Pancakes",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour", "3 1/2 tsp baking powder", "1 tsp salt", "1 tbsp white sugar", "1 1/4 cups milk", "1 egg", "3 tbsp butter, melted"
+    ],
+    "directions": [
+      "In a large bowl, sift together the flour, baking powder, salt and sugar.", "Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.", "Heat a lightly oiled griddle or frying pan over medium high heat.", "Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake.", "Brown on both sides and serve hot."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Spicy Chicken Tacos",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breast, cubed", "1 tbsp chili powder", "1/2 tsp cumin", "1/2 tsp paprika", "1/4 tsp garlic powder", "8 small corn tortillas", "Toppings: shredded lettuce, diced tomatoes, cilantro, lime wedges"
+    ],
+    "directions": [
+      "In a bowl, toss chicken with chili powder, cumin, paprika, and garlic powder.", "Heat a large skillet over medium-high heat. Add chicken and cook until browned and cooked through.", "Warm tortillas in a dry skillet or microwave.", "Serve chicken in tortillas with your favorite toppings."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Hearty Beef Stew",
+    "ingredients": [
+      "2 lbs beef stew meat, cut into 1-inch cubes", "1/4 cup all-purpose flour", "2 tbsp olive oil", "1 large onion, chopped", "4 carrots, sliced", "3 celery stalks, chopped", "4 cups beef broth", "1 cup red wine", "1 tsp dried thyme"
+    ],
+    "directions": [
+      "Toss beef with flour, salt, and pepper.", "In a large pot or Dutch oven, heat oil over medium-high heat. Brown the beef in batches.", "Remove beef and set aside. Add onion, carrots, and celery to the pot. Cook until softened.", "Stir in broth, wine, and thyme. Return beef to the pot. Bring to a boil, then reduce heat and simmer for 2 hours or until beef is tender."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "130 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Classic Margherita Pizza",
+    "ingredients": [
+      "1 ball of pizza dough", "1/2 cup pizza sauce", "8 oz fresh mozzarella, sliced", "Handful of fresh basil leaves", "2 tbsp olive oil", "Salt to taste"
+    ],
+    "directions": [
+      "Preheat oven to 475°F (245°C).", "Stretch dough to your desired thickness. Place on a baking sheet or pizza stone.", "Spread sauce evenly over the dough. Arrange mozzarella slices on top.", "Bake for 10-12 minutes, or until the crust is golden and cheese is bubbly.", "Top with fresh basil, a drizzle of olive oil, and a pinch of salt before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "12 minutes",
+    "servings": "3 servings"
+  },
+  {
+    "title": "Refreshing Mango Lassi",
+    "ingredients": [
+      "1 cup plain yogurt", "1/2 cup milk", "1 cup chopped ripe mango", "4 tsp sugar, or to taste", "A dash of ground cardamom (optional)"
+    ],
+    "directions": [
+      "Combine yogurt, milk, mango, and sugar in a blender.", "Blend until smooth.", "If desired, add a pinch of cardamom and blend again.", "Pour into glasses and serve chilled."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1574672282213-31b31a5a8126?q=80&w=1000",
+    "prep_time": "5 minutes",
+    "cook_time": "2 minutes",
+    "servings": "2 servings"
+  },
+  {
+    "title": "Vegetable Stir-Fry",
+    "ingredients": [
+      "1 tbsp sesame oil", "1 head broccoli, cut into florets", "1 red bell pepper, sliced", "1 cup snap peas", "1/2 cup soy sauce", "2 tbsp honey", "1 tbsp cornstarch", "Cooked rice for serving"
+    ],
+    "directions": [
+      "In a small bowl, whisk together soy sauce, honey, and cornstarch.", "Heat sesame oil in a large wok or skillet over medium-high heat.", "Add broccoli, bell pepper, and snap peas. Stir-fry for 5-7 minutes until tender-crisp.", "Pour the sauce over the vegetables and cook until it thickens.", "Serve hot over rice."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1607311615967-7a133104f4e3?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup butter, softened", "1 cup white sugar", "1 cup packed brown sugar", "2 eggs", "2 tsp vanilla extract", "3 cups all-purpose flour", "1 tsp baking soda", "2 tsp hot water", "1/2 tsp salt", "2 cups semisweet chocolate chips"
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C).", "Cream together the butter, white sugar, and brown sugar until smooth.", "Beat in the eggs one at a time, then stir in the vanilla.", "Dissolve baking soda in hot water. Add to batter along with salt.", "Stir in flour and chocolate chips.", "Drop by large spoonfuls onto ungreased pans.", "Bake for about 10 minutes, or until edges are nicely browned."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1593289297693-379e41b2298c?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "24 servings"
+  },
+  {
+    "title": "Greek Salad",
+    "ingredients": [
+      "1 cucumber, sliced", "1 pint cherry tomatoes, halved", "1/2 red onion, thinly sliced", "1/2 cup Kalamata olives", "4 oz feta cheese, crumbled", "Dressing: 1/4 cup olive oil, 2 tbsp red wine vinegar, 1 tsp dried oregano"
+    ],
+    "directions": [
+      "In a large bowl, combine cucumber, tomatoes, red onion, and olives.", "In a small bowl, whisk together olive oil, red wine vinegar, and oregano for the dressing.", "Pour dressing over the salad and toss to combine.", "Top with crumbled feta cheese before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1592417817038-d13fd7342605?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Homemade Guacamole",
+    "ingredients": [
+      "3 ripe avocados", "1/2 red onion, finely chopped", "1-2 jalapeños, seeds removed and minced", "1/2 cup cilantro, chopped", "2 tbsp lime juice", "1/2 tsp salt"
+    ],
+
+    "directions": [
+      "Mash avocados in a medium bowl.", "Stir in onion, jalapeños, cilantro, lime juice, and salt.", "Serve immediately with tortilla chips."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1598512752271-33f913a5af13?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Chicken Noodle Soup",
+    "ingredients": [
+      "1 tbsp olive oil", "1 cup chopped carrots", "1 cup chopped celery", "1 cup chopped onion", "8 cups chicken broth", "1 lb cooked chicken, shredded", "4 oz egg noodles"
+    ],
+    "directions": [
+      "Heat oil in a large pot over medium heat. Add carrots, celery, and onion. Cook until tender.", "Pour in chicken broth and bring to a boil.", "Stir in chicken and noodles. Cook until noodles are tender, about 10 minutes.", "Season with salt and pepper to taste."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1588105318534-11883344b5c7?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Baked Salmon with Asparagus",
+    "ingredients": [
+      "1 lb salmon fillet", "1 bunch asparagus, trimmed", "2 tbsp olive oil", "2 cloves garlic, minced", "1 lemon, sliced", "Salt and pepper"
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).", "Place salmon and asparagus on a baking sheet.", "Drizzle with olive oil and sprinkle with minced garlic, salt, and pepper.", "Top with lemon slices.", "Bake for 12-15 minutes, or until salmon is cooked through."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "servings": "2 servings"
+  },
+  {
+    "title": "Mushroom Risotto",
+    "ingredients": [
+      "6 cups chicken or vegetable broth", "2 tbsp olive oil", "1 lb mushrooms, sliced", "1 shallot, finely chopped", "1 1/2 cups Arborio rice", "1/2 cup dry white wine", "1 cup grated Parmesan cheese"
+    ],
+    "directions": [
+      "In a saucepan, bring broth to a simmer.", "In a separate large pot, heat olive oil. Add mushrooms and cook until browned. Remove and set aside.", "Add shallot to the pot and cook until soft. Add rice and toast for 1 minute.", "Pour in wine and stir until absorbed. Add a ladle of hot broth and stir until absorbed. Continue adding broth one ladle at a time, stirring frequently, until the rice is creamy and cooked through.", "Stir in the mushrooms and Parmesan cheese. Season with salt and pepper."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1621996346565-e326e7e2482e?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "35 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Caprese Salad Skewers",
+    "ingredients": [
+      "1 pint cherry tomatoes", "8 oz fresh mozzarella balls (bocconcini)", "1/2 cup fresh basil leaves", "Balsamic glaze for drizzling"
+    ],
+    "directions": [
+      "Thread a cherry tomato, a mozzarella ball, and a folded basil leaf onto a skewer.", "Repeat until all ingredients are used.", "Arrange on a platter and drizzle with balsamic glaze just before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1579584379934-c36f2085a6a6?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Classic French Toast",
+    "ingredients": [
+      "4 slices of bread", "2 large eggs", "1/2 cup milk", "1 tsp vanilla extract", "1/4 tsp cinnamon", "2 tbsp butter for frying"
+    ],
+    "directions": [
+      "Whisk together eggs, milk, vanilla, and cinnamon in a shallow dish.", "Dip each slice of bread into the egg mixture, allowing it to soak for about 20 seconds on each side.", "Melt butter in a large skillet over medium heat.", "Cook the bread slices until golden brown on both sides, about 2-3 minutes per side.", "Serve immediately with syrup, fruit, or powdered sugar."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1541288093379-b4b1a20a442a?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "10 minutes",
+    "servings": "2 servings"
+  },
+  {
+    "title": "Beef and Broccoli",
+    "ingredients": [
+      "1 lb flank steak, thinly sliced", "1 tbsp soy sauce", "1 tbsp cornstarch", "1 tbsp sesame oil", "1 head broccoli, cut into florets", "Sauce: 1/2 cup beef broth, 1/4 cup soy sauce, 2 tbsp brown sugar"
+    ],
+    "directions": [
+      "In a bowl, toss steak with 1 tbsp soy sauce and cornstarch.", "Heat sesame oil in a wok or large skillet over high heat. Add steak and cook until browned. Remove from skillet.", "Add broccoli to the skillet and stir-fry for 3-4 minutes. Add a splash of water, cover, and steam for 2 minutes.", "Return steak to the skillet. In a small bowl, whisk together the sauce ingredients and pour into the skillet.", "Cook until the sauce thickens and coats the beef and broccoli."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1608774843189-9d5a7110197d?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Lentil Soup",
+    "ingredients": [
+      "1 tbsp olive oil", "1 onion, chopped", "2 carrots, chopped", "2 celery stalks, chopped", "2 cloves garlic, minced", "1 cup brown or green lentils, rinsed", "8 cups vegetable broth", "1 tsp cumin"
+    ],
+    "directions": [
+      "Heat oil in a large pot or Dutch oven over medium heat. Add onion, carrots, and celery and cook until softened.", "Stir in garlic and cook for 1 minute more.", "Add lentils, vegetable broth, and cumin. Bring to a boil, then reduce heat and simmer for 45-50 minutes, or until lentils are tender.", "Season with salt and pepper to taste."
+    ],
+
+    "image_url": "https://images.unsplash.com/photo-1598214886522-45e6f3b461f4?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "55 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Strawberry Banana Smoothie",
+    "ingredients": [
+      "1 cup strawberries, hulled", "1 ripe banana, sliced", "1/2 cup Greek yogurt", "1/2 cup milk"
+    ],
+    "directions": [
+      "Combine all ingredients in a blender.", "Blend until smooth and creamy.", "Pour into a glass and serve immediately."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1610970881699-44a5c8a0f49a?q=80&w=1000",
+    "prep_time": "5 minutes",
+    "cook_time": "2 minutes",
+    "servings": "2 servings"
+  },
+  {
+    "title": "Pulled Pork Sandwiches",
+    "ingredients": [
+      "4 lb pork shoulder", "1 cup your favorite BBQ sauce", "1/4 cup apple cider vinegar", "1/4 cup brown sugar", "1 tbsp smoked paprika", "8 hamburger buns"
+    ],
+    "directions": [
+      "Place pork shoulder in a slow cooker. In a bowl, mix BBQ sauce, vinegar, brown sugar, and paprika. Pour over pork.", "Cover and cook on low for 8-10 hours, or until pork is fork-tender.", "Remove pork from slow cooker and shred with two forks. Return to the slow cooker and stir to coat with sauce.", "Serve shredded pork on hamburger buns."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1599016142643-d731885f7564?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "480 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Apple Crumble",
+    "ingredients": [
+      "6 apples, peeled and sliced", "1 cup all-purpose flour", "1 cup rolled oats", "1 cup brown sugar", "1 tsp cinnamon", "1/2 cup cold butter, cubed"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).", "Place sliced apples in a greased 9x13 inch baking dish.", "In a bowl, combine flour, oats, brown sugar, and cinnamon. Cut in the cold butter until the mixture resembles coarse crumbs.", "Sprinkle the crumble topping evenly over the apples.", "Bake for 30-35 minutes, or until the topping is golden brown and the apples are tender.", "Serve warm, optionally with a scoop of vanilla ice cream."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1576618146312-cb8a8f115592?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "35 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Caesar Salad",
+    "ingredients": [
+      "1 large head of romaine lettuce, chopped", "1 cup croutons", "1/2 cup shaved Parmesan cheese", "Dressing: 1/2 cup mayonnaise, 2 tbsp lemon juice, 1 tsp Worcestershire sauce, 1 minced garlic clove"
+    ],
+    "directions": [
+      "In a small bowl, whisk together all dressing ingredients.", "In a large salad bowl, combine romaine lettuce, croutons, and Parmesan cheese.", "Pour dressing over the salad and toss to coat.", "Serve immediately."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Spaghetti Carbonara",
+    "ingredients": [
+      "8 oz spaghetti", "2 large eggs", "1/2 cup grated Pecorino Romano cheese", "4 slices of pancetta or bacon, diced", "2 cloves garlic, minced", "Freshly ground black pepper"
+    ],
+    "directions": [
+      "Cook spaghetti according to package directions. Reserve 1/2 cup of pasta water.", "While pasta cooks, whisk together eggs and Pecorino Romano cheese in a bowl.", "In a large skillet, cook pancetta until crisp. Add garlic and cook for 1 minute. Remove from heat.", "Drain the hot spaghetti and immediately add it to the skillet with the pancetta. Toss to combine.", "Quickly pour in the egg and cheese mixture, stirring constantly to create a creamy sauce. Do not let the eggs scramble. Add reserved pasta water if needed to thin the sauce.", "Season generously with black pepper."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1608796837873-4554a99169a6?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "15 minutes",
+    "servings": "3 servings"
+  },
+  {
+    "title": "Vegan Chickpea Curry",
+    "ingredients": [
+      "1 tbsp coconut oil", "1 onion, chopped", "2 cloves garlic, minced", "1 tbsp grated ginger", "1 tbsp curry powder", "1 (13.5 oz) can full-fat coconut milk", "1 (15 oz) can chickpeas, rinsed", "1 (14.5 oz) can diced tomatoes", "4 cups fresh spinach"
+    ],
+    "directions": [
+      "Heat coconut oil in a large pot or skillet over medium heat. Add onion and cook until soft.", "Stir in garlic and ginger and cook for 1 minute.", "Add curry powder and cook for 30 seconds more.", "Pour in coconut milk, chickpeas, and diced tomatoes. Bring to a simmer and cook for 10 minutes.", "Stir in the spinach and cook until wilted.", "Serve hot with rice or naan bread."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1598514983201-35d882751513?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Classic Mojito",
+    "ingredients": [
+      "10 fresh mint leaves", "1/2 lime, cut into 4 wedges", "2 tbsp white sugar", "1.5 oz white rum", "Club soda, to top"
+    ],
+    "directions": [
+      "In a sturdy glass, muddle the mint leaves, lime wedges, and sugar.", "Fill the glass with ice. Pour in the rum.", "Top with club soda and stir gently.", "Garnish with a lime wedge and a mint sprig."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1551538850-2f348ae2ac2c?q=80&w=1000",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes",
+    "servings": "1 serving"
+  },
+  {
+    "title": "Oatmeal Raisin Cookies",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour", "1 tsp baking soda", "1 tsp cinnamon", "1/2 tsp salt", "1 cup unsalted butter, softened", "1 cup packed brown sugar", "1/2 cup granulated sugar", "2 large eggs", "1 tsp vanilla extract", "3 cups old-fashioned rolled oats", "1 cup raisins"
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C).", "In a bowl, whisk together flour, baking soda, cinnamon, and salt.", "In a separate large bowl, beat butter, brown sugar, and granulated sugar until creamy.", "Add eggs one at a time, beating well after each, then stir in vanilla.", "Gradually add the dry ingredients to the wet ingredients. Stir in the oats and raisins.", "Drop rounded tablespoons of dough onto ungreased baking sheets.", "Bake for 10-12 minutes until golden brown.", "Let cool on the baking sheet for a few minutes before transferring to a wire rack."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1590088825120-1a10408b475c?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "12 minutes",
+    "servings": "24 servings"
+  },
+  {
+    "title": "Tomato Soup with Grilled Cheese",
+    "ingredients": [
+      "For Soup: 1 tbsp olive oil, 1 chopped onion, 2 cloves garlic, 1 (28 oz) can crushed tomatoes, 4 cups vegetable broth", "For Grilled Cheese: 2 slices of bread, 2 slices of cheddar cheese, 1 tbsp butter"
+    ],
+    "directions": [
+      "For the soup, heat olive oil in a pot. Add onion and cook until soft. Add garlic and cook for 1 minute.", "Stir in crushed tomatoes and vegetable broth. Simmer for 20 minutes. Blend until smooth if desired.", "For the grilled cheese, butter one side of each slice of bread. Place one slice butter-side down in a skillet. Top with cheese, then the other slice of bread, butter-side up.", "Cook over medium heat until golden brown on both sides and the cheese is melted.", "Serve soup with the grilled cheese for dipping."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1547573854-74d2a71cf332?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "30 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Black Bean Burgers",
+    "ingredients": [
+      "1 (15 oz) can black beans, rinsed and drained", "1/2 green bell pepper, chopped", "1/2 onion, chopped", "2 cloves garlic, minced", "1 egg", "1/2 cup bread crumbs", "1 tbsp chili powder"
+    ],
+    "directions": [
+      "Preheat grill or a lightly oiled skillet.", "In a large bowl, mash the black beans. Mix in bell pepper, onion, garlic, egg, bread crumbs, and chili powder.", "Form the mixture into 4 patties.", "Cook on the grill or in the skillet for about 5 minutes on each side.", "Serve on buns with your favorite toppings."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1582169296194-e4d644c48063?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Pasta Salad",
+    "ingredients": [
+      "8 oz rotini pasta, cooked and cooled", "1 cup cherry tomatoes, halved", "1 cucumber, diced", "1/2 red onion, sliced", "1/2 cup black olives", "1/2 cup Italian dressing"
+    ],
+    "directions": [
+      "In a large bowl, combine the cooked pasta, tomatoes, cucumber, red onion, and olives.", "Pour the Italian dressing over the salad and toss to coat.", "Refrigerate for at least 30 minutes before serving to allow flavors to meld."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1605371924570-15891b8a531f?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Banana Bread",
+    "ingredients": [
+      "2 cups all-purpose flour", "1 tsp baking soda", "1/4 tsp salt", "1/2 cup butter", "3/4 cup brown sugar", "2 eggs, beaten", "2 1/3 cups mashed overripe bananas"
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C). Lightly grease a 9x5 inch loaf pan.", "In a large bowl, combine flour, baking soda and salt. In a separate bowl, cream together butter and brown sugar.", "Stir in eggs and mashed bananas until well blended. Stir banana mixture into flour mixture; stir just to moisten.", "Pour batter into prepared loaf pan.", "Bake for 60 to 65 minutes, until a toothpick inserted into the center comes out clean."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1589923483753-533a5957e05f?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "65 minutes",
+    "servings": "10 servings"
+  },
+  {
+    "title": "Fish Tacos with Cabbage Slaw",
+    "ingredients": [
+      "1 lb white fish fillets (like cod or tilapia)", "1 tbsp olive oil", "1 tsp cumin", "1 tsp chili powder", "8 corn tortillas", "Slaw: 2 cups shredded cabbage, 1/4 cup cilantro, 2 tbsp lime juice"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).", "Rub fish with olive oil, cumin, and chili powder. Place on a baking sheet and bake for 10-15 minutes, until fish flakes easily.", "While fish is baking, combine all slaw ingredients in a bowl.", "Warm the tortillas. Break the cooked fish into pieces and serve in the tortillas, topped with the cabbage slaw."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1512838243191-e81e8f66f1fd?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Spinach and Feta Stuffed Chicken",
+    "ingredients": [
+      "4 boneless, skinless chicken breasts", "4 oz feta cheese, crumbled", "2 cups fresh spinach, chopped", "2 cloves garlic, minced", "1 tbsp olive oil", "Salt and pepper"
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).", "In a bowl, mix together feta cheese, spinach, and garlic.", "Cut a pocket into the side of each chicken breast. Stuff each pocket with the spinach and feta mixture.", "Secure with toothpicks if necessary. Season the outside of the chicken with salt and pepper.", "Heat olive oil in a skillet over medium-high heat. Sear the chicken for 2-3 minutes on each side.", "Transfer skillet to the oven and bake for 15-20 minutes, or until chicken is cooked through."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1604218342416-56a9a7c9332e?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "25 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Clam Chowder",
+    "ingredients": [
+      "4 slices bacon, chopped", "1 onion, chopped", "2 celery stalks, chopped", "2 potatoes, peeled and diced", "2 (6.5 oz) cans minced clams, with juice", "2 cups half-and-half", "2 cups milk"
+    ],
+    "directions": [
+      "In a large pot, cook bacon over medium heat until crisp. Remove bacon and set aside, leaving the drippings in the pot.", "Add onion and celery to the pot and cook until tender.", "Stir in potatoes and the juice from the cans of clams. Bring to a boil, then simmer until potatoes are tender.", "Stir in the clams, half-and-half, and milk. Cook until heated through, but do not boil.", "Stir in the cooked bacon before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542312675-925232b67a4e?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Quiche Lorraine",
+    "ingredients": [
+      "1 (9-inch) unbaked pie crust", "6 slices bacon, cooked and crumbled", "1 cup shredded Swiss cheese", "3 large eggs", "1 1/2 cups heavy cream", "1/4 tsp salt", "Pinch of cayenne pepper"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).", "Sprinkle the bacon and cheese into the bottom of the pie crust.", "In a bowl, whisk together eggs, heavy cream, salt, and cayenne pepper.", "Carefully pour the egg mixture into the pie crust.", "Bake for 35-40 minutes, or until the center is set (a knife inserted comes out clean).", "Let stand for 10 minutes before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1627916599212-9c4c1ce814f3?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "40 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Pad Thai",
+    "ingredients": [
+      "8 oz rice noodles", "2 tbsp vegetable oil", "1 lb shrimp or chicken, chopped", "3 cloves garlic, minced", "1 egg, beaten", "1 cup bean sprouts", "Sauce: 3 tbsp fish sauce, 3 tbsp brown sugar, 2 tbsp tamarind paste, 1 tbsp lime juice"
+    ],
+    "directions": [
+      "Cook rice noodles according to package directions.", "In a small bowl, whisk together all sauce ingredients.", "Heat oil in a wok or large skillet. Add shrimp/chicken and garlic. Cook until protein is done.", "Push everything to one side of the wok. Pour the egg on the empty side and scramble.", "Add the cooked noodles, bean sprouts, and sauce to the wok. Toss everything together until well combined.", "Serve immediately with crushed peanuts, cilantro, and lime wedges."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1569718212165-d803422c4342?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Ratatouille",
+    "ingredients": [
+      "1 eggplant, sliced", "1 zucchini, sliced", "1 yellow squash, sliced", "2 bell peppers (any color), sliced", "1 onion, sliced", "4 tomatoes, sliced", "1/4 cup olive oil", "2 cloves garlic, minced", "1 tbsp fresh thyme"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).", "Arrange sliced vegetables in a spiral pattern in a large baking dish.", "In a small bowl, whisk together olive oil, minced garlic, and thyme. Drizzle over the vegetables.", "Season with salt and pepper.", "Bake for 45-55 minutes, until the vegetables are tender and lightly browned."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1594916244490-6a18d171d18f?q=80&w=1000",
+    "prep_time": "25 minutes",
+    "cook_time": "50 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Shepherd's Pie",
+    "ingredients": [
+      "Filling: 1 tbsp oil, 1 lb ground lamb or beef, 1 chopped onion, 2 chopped carrots, 1 cup beef broth, 1 tbsp Worcestershire sauce", "Topping: 2 lbs potatoes, peeled and quartered, 1/4 cup milk, 4 tbsp butter"
+    ],
+    "directions": [
+      "For the topping, boil potatoes until tender. Drain and mash with milk and butter. Season with salt and pepper.", "For the filling, heat oil in a skillet. Brown the ground meat. Drain fat. Add onion and carrots and cook until soft.", "Stir in broth and Worcestershire sauce. Simmer for 10 minutes.", "Preheat oven to 400°F (200°C).", "Spread the meat filling in a baking dish. Top with the mashed potatoes.", "Bake for 20-25 minutes, until the top is golden brown."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1628216848496-d3527b11d95c?q=80&w=1000",
+    "prep_time": "25 minutes",
+    "cook_time": "45 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Cobb Salad",
+    "ingredients": [
+      "1 head romaine lettuce, chopped", "2 cups cooked chicken, diced", "4 slices bacon, cooked and crumbled", "2 hard-boiled eggs, chopped", "1 avocado, diced", "1 tomato, diced", "1/2 cup blue cheese crumbles", "Your favorite vinaigrette dressing"
+    ],
+    "directions": [
+      "Arrange the chopped lettuce on a large platter or in a large bowl.", "Create rows of chicken, bacon, eggs, avocado, tomato, and blue cheese over the lettuce.", "Drizzle with vinaigrette just before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1559847844-5315695d0464?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "0 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Macaroni and Cheese",
+    "ingredients": [
+      "8 oz elbow macaroni", "1/4 cup butter", "1/4 cup all-purpose flour", "2 cups milk", "2 cups shredded sharp cheddar cheese", "1/2 tsp salt"
+    ],
+    "directions": [
+      "Cook macaroni according to package directions.", "While it cooks, melt butter in a medium saucepan over medium heat. Whisk in flour and cook for 1 minute.", "Gradually whisk in milk until the mixture is smooth and bubbling.", "Stir in cheese and salt until the cheese is melted.", "Drain the macaroni and stir it into the cheese sauce."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1541592106381-b58e7c136103?q=80&w=1000",
+    "prep_time": "5 minutes",
+    "cook_time": "15 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Goulash",
+    "ingredients": [
+      "2 lbs beef, cubed", "2 tbsp oil", "2 large onions, chopped", "2 tbsp paprika", "6 cups beef broth", "1 (6 oz) can tomato paste", "8 oz egg noodles, cooked"
+    ],
+    "directions": [
+      "In a large pot, brown the beef in oil. Remove and set aside.", "Add onions to the pot and cook until tender. Stir in paprika.", "Return beef to the pot. Stir in beef broth and tomato paste.", "Bring to a boil, then reduce heat and simmer for at least 1.5 hours, until beef is very tender.", "Serve over cooked egg noodles."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1598214886522-45e6f3b461f4?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "100 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Carrot Cake",
+    "ingredients": [
+      "2 cups all-purpose flour", "2 tsp baking soda", "2 tsp cinnamon", "1/2 tsp salt", "1 1/2 cups vegetable oil", "2 cups white sugar", "4 eggs", "3 cups grated carrots", "Frosting: 8 oz cream cheese, 1/2 cup butter, 4 cups powdered sugar, 1 tsp vanilla"
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C). Grease and flour a 9x13 inch pan.", "In a bowl, mix flour, baking soda, cinnamon, and salt.", "In a large bowl, beat together oil, sugar, and eggs. Gradually add the dry ingredients.", "Stir in the grated carrots. Pour into the prepared pan.", "Bake for 40-50 minutes, until a toothpick comes out clean.", "To make frosting, beat cream cheese and butter until smooth. Beat in powdered sugar and vanilla.", "Frost the cake once it has cooled completely."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1622956909613-2fa233a129d2?q=80&w=1000",
+    "prep_time": "25 minutes",
+    "cook_time": "50 minutes",
+    "servings": "12 servings"
+  },
+  {
+    "title": "Gazpacho",
+    "ingredients": [
+      "2 lbs ripe tomatoes, chopped", "1 cucumber, peeled and chopped", "1 green bell pepper, chopped", "1/2 red onion, chopped", "2 cloves garlic", "1/4 cup olive oil", "3 tbsp red wine vinegar"
+    ],
+    "directions": [
+      "Combine all ingredients in a blender or food processor.", "Blend until the desired consistency is reached (some like it chunky, some like it smooth).", "Season with salt and pepper to taste.", "Chill in the refrigerator for at least 2 hours before serving.", "Serve cold, garnished with croutons or a drizzle of olive oil."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1627883935213-631f47c945b5?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "0 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Chicken Parmesan",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts", "1 cup Italian breadcrumbs", "1/2 cup Parmesan cheese", "1 egg, beaten", "1 cup marinara sauce", "1 cup shredded mozzarella cheese"
+    ],
+    "directions": [
+      "Preheat oven to 400°F (200°C).", "Slice each chicken breast in half horizontally to make 4 thin cutlets.", "Combine breadcrumbs and Parmesan cheese in a shallow dish.", "Dip each chicken cutlet in the beaten egg, then dredge in the breadcrumb mixture.", "Place chicken in a lightly greased baking dish. Bake for 20 minutes.", "Top each piece of chicken with marinara sauce and mozzarella cheese. Bake for another 5-10 minutes, until cheese is melted and bubbly."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1632778149955-e83f0ce923e2?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Eggplant Parmesan",
+    "ingredients": [
+      "1 large eggplant, sliced into 1/2-inch rounds", "1 cup Italian breadcrumbs", "1/2 cup Parmesan cheese", "2 eggs, beaten", "2 cups marinara sauce", "1 cup shredded mozzarella cheese"
+    ],
+    "directions": [
+      "Preheat oven to 375°F (190°C).", "Combine breadcrumbs and Parmesan cheese in a shallow dish.", "Dip each eggplant slice in the beaten egg, then dredge in the breadcrumb mixture.", "Arrange slices in a single layer on a baking sheet. Bake for 20 minutes, flipping halfway through.", "In a baking dish, spread a layer of marinara sauce. Add a layer of eggplant slices, more sauce, and a sprinkle of mozzarella. Repeat layers.", "Bake for 20-25 minutes, until heated through and the cheese is melted."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1556221588-aa5c85351334?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "45 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Minestrone Soup",
+    "ingredients": [
+      "1 tbsp olive oil", "1 chopped onion", "2 chopped carrots", "2 chopped celery stalks", "1 (15 oz) can kidney beans, rinsed", "1 (15 oz) can great northern beans, rinsed", "4 cups vegetable broth", "1 (14.5 oz) can diced tomatoes", "1 cup small shell pasta"
+    ],
+    "directions": [
+      "Heat oil in a large pot. Add onion, carrots, and celery and cook until tender.", "Stir in beans, broth, and tomatoes. Bring to a boil, then simmer for 15 minutes.", "Stir in the pasta and cook until al dente, about 10 minutes.", "Season with salt, pepper, and Italian herbs to taste."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1598214886522-45e6f3b461f4?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "30 minutes",
+    "servings": "8 servings"
+  },
+  {
+    "title": "Chocolate Lava Cakes",
+    "ingredients": [
+      "1/2 cup unsalted butter", "4 oz bittersweet chocolate, chopped", "2 large eggs", "2 egg yolks", "1/4 cup sugar", "2 tbsp all-purpose flour"
+    ],
+    "directions": [
+      "Preheat oven to 425°F (220°C). Grease and flour 4 ramekins.", "Melt butter and chocolate together in a saucepan or microwave. Let cool slightly.", "In a bowl, whisk together eggs, egg yolks, and sugar until pale and thick.", "Fold the chocolate mixture into the egg mixture. Gently fold in the flour.", "Divide the batter among the prepared ramekins.", "Bake for 12-14 minutes, until the sides are firm but the center is soft.", "Let cool for a minute, then invert onto plates and serve immediately."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "14 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Irish Coffee",
+    "ingredients": [
+      "1 cup hot brewed coffee", "1 tbsp brown sugar", "1.5 oz Irish whiskey", "Lightly whipped heavy cream, for topping"
+    ],
+    "directions": [
+      "Pour the hot coffee into a warm mug.", "Stir in the brown sugar until it dissolves completely.", "Stir in the Irish whiskey.", "Gently float the lightly whipped cream on top by pouring it over the back of a spoon."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1551961577-33b668f44773?q=80&w=1000",
+    "prep_time": "5 minutes",
+    "cook_time": "0 minutes",
+    "servings": "1 serving"
+  },
+  {
+    "title": "Tuna Salad Sandwich",
+    "ingredients": [
+      "1 (5 oz) can tuna, drained", "1/4 cup mayonnaise", "1 celery stalk, finely chopped", "2 tbsp finely chopped red onion", "1 tbsp lemon juice", "Salt and pepper to taste", "4 slices of bread"
+    ],
+    "directions": [
+      "In a medium bowl, combine tuna, mayonnaise, celery, red onion, and lemon juice.", "Mix well and season with salt and pepper.", "Spread the tuna salad mixture on two slices of bread, then top with the remaining slices.", "Serve immediately or chilled."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1513451732922-a16223451365?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "servings": "2 servings"
+  },
+  {
+    "title": "Deviled Eggs",
+    "ingredients": [
+      "6 hard-boiled eggs, peeled and halved lengthwise", "1/4 cup mayonnaise", "1 tsp Dijon mustard", "1 tsp white vinegar", "Paprika for garnish"
+    ],
+    "directions": [
+      "Remove the yolks from the egg halves and place them in a small bowl.", "Mash the yolks with a fork. Stir in mayonnaise, mustard, and vinegar.", "Season with salt and pepper to taste.", "Spoon or pipe the yolk mixture back into the egg white halves.", "Sprinkle with paprika before serving."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1587563877259-24d18388518f?q=80&w=1000",
+    "prep_time": "15 minutes",
+    "cook_time": "10 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Hummus",
+    "ingredients": [
+      "1 (15 oz) can chickpeas, rinsed", "1/4 cup fresh lemon juice", "1/4 cup tahini", "1 small garlic clove, minced", "2 tbsp olive oil", "1/2 tsp cumin"
+    ],
+    "directions": [
+      "Combine all ingredients in a food processor.", "Blend until completely smooth, adding 2-3 tablespoons of water if needed to reach desired consistency.", "Season with salt to taste.", "Serve with pita bread, chips, or fresh vegetables."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1623952478935-36473d06a928?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "0 minutes",
+    "servings": "6 servings"
+  },
+  {
+    "title": "Pork Chops with Apples and Onions",
+    "ingredients": [
+      "4 bone-in pork chops", "2 tbsp olive oil", "1 large onion, sliced", "2 apples, cored and sliced", "1/2 cup apple cider", "1 tbsp Dijon mustard"
+    ],
+    "directions": [
+      "Season pork chops with salt and pepper.", "Heat olive oil in a large skillet over medium-high heat. Sear the pork chops for 3-4 minutes per side, until golden brown. Remove from skillet.", "Add onion and apples to the skillet and cook until softened.", "Stir in apple cider and Dijon mustard, scraping up any browned bits from the bottom of the pan.", "Return the pork chops to the skillet. Bring to a simmer, then reduce heat, cover, and cook for 10-15 minutes, or until pork is cooked through."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1542365853-df46393967d3?q=80&w=1000",
+    "prep_time": "10 minutes",
+    "cook_time": "25 minutes",
+    "servings": "4 servings"
+  },
+  {
+    "title": "Key Lime Pie",
+    "ingredients": [
+      "Crust: 1 1/2 cups graham cracker crumbs, 1/4 cup sugar, 6 tbsp melted butter", "Filling: 1 (14 oz) can sweetened condensed milk, 1/2 cup key lime juice, 2 egg yolks"
+    ],
+    "directions": [
+      "Preheat oven to 350°F (175°C).", "For the crust, combine graham cracker crumbs, sugar, and melted butter. Press into a 9-inch pie plate.", "Bake crust for 10 minutes. Let cool.", "For the filling, whisk together sweetened condensed milk, key lime juice, and egg yolks.", "Pour filling into the cooled crust.", "Bake for 15 minutes. Let cool, then refrigerate for at least 4 hours before serving.", "Serve with whipped cream."
+    ],
+    "image_url": "https://images.unsplash.com/photo-1618338902888-29a8a7a01535?q=80&w=1000",
+    "prep_time": "20 minutes",
+    "cook_time": "25 minutes",
+    "servings": "8 servings"
+  }
+]
+
