@@ -5,6 +5,12 @@
     }
   },
   "routes": [
+    // 1. Route for static files (e.g., CSS, JS, Images, signup.html)
+    {
+      "src": "/(.*\\.(css|js|jpg|jpeg|png|gif|html|ico|svg))",
+      "dest": "/$1"
+    },
+    // 2. Route ALL other traffic to the main PHP entry point
     { 
       "src": "/(.*)", 
       "dest": "/homepage.php" 
